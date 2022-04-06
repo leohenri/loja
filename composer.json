@@ -1,8 +1,9 @@
 {
-    "name": "leohenri/loja",
+    //leohenri é o vendor que está dispon 
+    "name": "leohenri/start_project",
     "authors": [
         {
-            "name": "Loja Leohenri",
+            "name": "Nome Projeto",
             "email": "leohenribar2@gmail.com"
         }
     ],
